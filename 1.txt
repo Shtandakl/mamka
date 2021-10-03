@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 
+=======
+new row in 1.txt file
+>>>>>>> new_branch
