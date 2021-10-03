@@ -1,0 +1,28 @@
+ Shtandakl Sun Sep 26 12:55:25 2021 +1000
+ .gitignore    | 2 ++
+ ign.gitignore | 2 --
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+ Shtandakl Sun Sep 26 12:32:59 2021 +1000
+ ign.gitignore | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+ Shtandakl Sun Sep 26 12:29:09 2021 +1000
+ ign.gitignore | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+ Shtandakl Sun Sep 26 12:24:48 2021 +1000
+ ign.gitignore                       | 2 ++
+ my_second_file.txt => log/main.html | 0
+ log/some.tmp                        | 0
+ my_first_file.txt                   | 1 -
+ 4 files changed, 2 insertions(+), 1 deletion(-)
+
+ Shtandakl Sun Sep 26 12:11:45 2021 +1000
+ my_first_file.txt  | 1 +
+ my_second_file.txt | 0
+ 2 files changed, 1 insertion(+)
+
+ Shtandakl Sun Sep 26 12:09:53 2021 +1000
+ my_first_file.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
